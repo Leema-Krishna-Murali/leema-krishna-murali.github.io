@@ -27,16 +27,16 @@ latest_posts:
 ---
 
 I am a machine learning researcher working at the intersection of computer vision,
-multimodal AI, and medicine. I have joined UCLA to pursue PhD in Health AI in the department of Computataional Medicine. I previously worked as a Senior Data Scientist at
+multimodal AI, and medicine. I have joined UCLA to pursue PhD in Health AI in the [Department of Computational Medicine](https://compmed.ucla.edu/). I previously worked as a Senior Data Scientist at
 [Eisai](https://www.eisai.com/), where I built models that connect imaging and
 biomarker data to disease biology in Alzheimer's disease.
 
 My broader research interest is in making large models genuinely useful for
-medical reasoning — not just accurate on a benchmark, but interpretable, reliable,
+medical reasoning, not just accurate on a benchmark, but interpretable, reliable,
 and grounded in the underlying biology for clinical deployment. See my [publications]({{ '/publications/' | relative_url }})
 and [projects]({{ '/projects/' | relative_url }}).
 
-#### Medical imaging foundation models
+#### Medical Imaging Foundation models
 
 I work on representation learning for medical images — histopathology whole-slide
 images, radiology, and multiplexed microscopy — and on the data and training
