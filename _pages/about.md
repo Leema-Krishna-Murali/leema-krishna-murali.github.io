@@ -36,13 +36,13 @@ medical reasoning — not just accurate on a benchmark, but interpretable, relia
 and grounded in the underlying biology for clinical deployment. See my [publications]({{ '/publications/' | relative_url }})
 and [projects]({{ '/projects/' | relative_url }}).
 
-#### medical imaging foundation models
+#### Medical imaging foundation models
 
 I work on representation learning for medical images — histopathology whole-slide
 images, radiology, and multiplexed microscopy — and on the data and training
 infrastructure that makes learning from gigapixel images practical.
 
-#### interpretability of vision-language models
+#### Interpretability of Vision-Language models
 
 I am interested in how multimodal models arrive at a clinical answer: what they
 attend to, where they fail, and how to surface that reasoning so a clinician can
@@ -59,5 +59,3 @@ Alzheimer's disease.
 Before Eisai I completed my MS in Biomedical Engineering at the University at
 Buffalo (SUNY), working in the Computational Microscopy Imaging Lab on generative
 modeling and efficient training pipelines for digital pathology.
-
-Outside research I love baking and sketching.
