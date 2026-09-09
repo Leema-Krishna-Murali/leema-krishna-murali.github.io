@@ -38,8 +38,8 @@ and [projects]({{ '/projects/' | relative_url }}).
 
 #### Medical Imaging Foundation models
 
-I work on representation learning for medical images — histopathology whole-slide
-images, radiology, and multiplexed microscopy — and on the data and training
+I worked on representation learning for medical images - histopathology whole-slide
+images, radiology, and multiplexed microscopy and on the data and training
 infrastructure that makes learning from gigapixel images practical.
 
 #### Interpretability of Vision-Language models
