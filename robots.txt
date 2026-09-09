@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://leema-krishna-murali.github.io/leemakrishnam.github.io/sitemap.xml
+Sitemap: https://leema-krishna-murali.github.io/sitemap.xml
