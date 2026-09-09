@@ -33,8 +33,7 @@ biomarker data to disease biology in Alzheimer's disease.
 
 My broader research interest is in making large models genuinely useful for
 medical reasoning, not just accurate on a benchmark, but interpretable, reliable,
-and grounded in the underlying biology for clinical deployment. See my [publications]({{ '/publications/' | relative_url }})
-and [projects]({{ '/projects/' | relative_url }}).
+and grounded in the underlying biology for clinical deployment. See my [publications]({{ '/publications/' | relative_url }}).
 
 #### Medical Imaging Foundation models
 

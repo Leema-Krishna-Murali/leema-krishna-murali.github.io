@@ -3,7 +3,8 @@ layout: page
 title: projects
 permalink: /projects/
 description: Selected code, tools, and side projects.
-nav: true
+published: false # WIP — flip to true (and set nav: true) to publish the projects page
+nav: false
 nav_order: 2
 display_categories: [research, learning]
 horizontal: false
